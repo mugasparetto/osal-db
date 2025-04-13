@@ -1,0 +1,1231 @@
+{
+  "item_groups": [
+    {
+      "id": 1,
+      "name": "Hellfire Missile",
+      "description": "The Hellfire AGM-114 missile, made by Lockheed Martin, is a laser-guided anti-tank missile meant to be fired from helicopters and drones. They are qualified for use on Israeli-used aircraft such as the Boeing AH-64 Apache and the Sikorsky UH-60 Black Hawk. There are different variants of Hellfire missiles.",
+      "description_sources": ["https://google.com/description"],
+      "image": "https://plus.unsplash.com/premium_photo-1733899141396-0198224f0d03",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "1",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis.",
+      "notes_sources": ["https://google.com/notes"]
+    },
+    {
+      "id": 2,
+      "name": "Joint Direct Attack Munition (JDAM)",
+      "description": "The JDAM is a guidance kit developed by Boeing that converts unguided bombs into all-weather precision-guided munitions. The system uses GPS to improve accuracy and is used by multiple air forces, including the Israeli Air Force.",
+      "image": "https://plus.unsplash.com/premium_photo-1661901234139-d833950e05e0",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "2"
+    },
+    {
+      "id": 3,
+      "name": "F-16 Fighting Falcon",
+      "description": "A multirole fighter aircraft developed by General Dynamics and widely used worldwide. The F-16 is known for its maneuverability and advanced avionics. Israel operates a fleet of F-16s, often modified for specific combat needs.",
+      "image": "https://images.unsplash.com/photo-1500252185289-40ca85eb23a7",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "3"
+    },
+    {
+      "id": 4,
+      "name": "Merkava Tank",
+      "description": "The Merkava is the main battle tank used by the Israel Defense Forces (IDF). It is known for its emphasis on crew protection and firepower. The latest model, the Merkava Mk4, features advanced armor and active protection systems.",
+      "image": "https://images.unsplash.com/photo-1630161861535-b39e5635da68",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "4"
+    },
+    {
+      "id": 5,
+      "name": "Iron Dome",
+      "description": "An advanced missile defense system developed by Israel to intercept short-range rockets and artillery shells. It has been credited with intercepting thousands of incoming projectiles.",
+      "image": "https://images.unsplash.com/photo-1707236586788-3b2a38a33424",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "5"
+    },
+    {
+      "id": 6,
+      "name": "Spike Missile",
+      "description": "A family of fire-and-forget anti-tank guided missiles developed by Israel's Rafael Advanced Defense Systems. The Spike missile is widely used and exported to numerous countries.",
+      "image": "https://plus.unsplash.com/premium_photo-1734448809853-07222c5b7e03",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "6"
+    },
+    {
+      "id": 7,
+      "name": "Apache Helicopter",
+      "description": "The Boeing AH-64 Apache is an advanced attack helicopter used by the IDF. It is heavily armed with Hellfire missiles, a 30mm chain gun, and Hydra 70 rockets.",
+      "image": "https://images.unsplash.com/photo-1662945439005-98bd32c4447e",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "7"
+    },
+    {
+      "id": 8,
+      "name": "DIME Bombs",
+      "description": "Dense Inert Metal Explosives (DIME) are controversial munitions believed to cause severe injuries with limited blast radii. Reports suggest their use in conflict zones, raising ethical and humanitarian concerns.",
+      "image": "https://images.unsplash.com/photo-1633591324611-55ee4caa790f",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "8"
+    },
+    {
+      "id": 9,
+      "name": "White Phosphorus",
+      "description": "A controversial incendiary weapon used for battlefield illumination and smoke screens. Its use in populated areas is highly criticized due to its severe burns and long-lasting effects.",
+      "image": "https://plus.unsplash.com/premium_photo-1683133515999-6cc3f023c714",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "9"
+    },
+    {
+      "id": 10,
+      "name": "F-35 Lightning II",
+      "description": "A fifth-generation stealth fighter jet used by the Israeli Air Force. The F-35 provides advanced radar evasion capabilities and state-of-the-art avionics for precision strikes.",
+      "image": "https://images.unsplash.com/photo-1551796880-ddd03f861ae7",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "10"
+    },
+    {
+      "id": 11,
+      "name": "GBU-39 Small Diameter Bomb",
+      "description": "A precision-guided glide bomb designed for high accuracy with minimal collateral damage. It has been used in various conflicts, including airstrikes in Gaza.",
+      "image": "https://images.unsplash.com/photo-1557776601-a6b65fcf364f",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "11"
+    },
+    {
+      "id": 12,
+      "name": "Tavor Assault Rifle",
+      "description": "A modern Israeli-made assault rifle used by the IDF. The Tavor is designed for urban warfare with a compact, ergonomic bullpup configuration.",
+      "image": "https://images.unsplash.com/photo-1591123720164-de1348028a82",
+      "primary": true,
+      "used_in_countries": ["United States"],
+      "locationId": "12"
+    },
+    {
+      "id": 13,
+      "name": "Thermal Battery",
+      "item_groupId": "1",
+      "description": "Provides power to missile systems during flight, activated upon launch.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "13",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 14,
+      "name": "Missile Guidance System",
+      "item_groupId": "1",
+      "description": "Controls missile trajectory using sensors and algorithms to reach the target.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "14"
+    },
+    {
+      "id": 15,
+      "name": "Rocket Motor",
+      "item_groupId": "1",
+      "description": "Propels the missile through combustion of solid or liquid propellants.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "15"
+    },
+    {
+      "id": 16,
+      "name": "Seeker Head",
+      "item_groupId": "1",
+      "description": "Detects and locks onto targets using infrared or radar technology.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "16",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 17,
+      "name": "Warhead",
+      "item_groupId": "1",
+      "description": "Explosive payload designed to destroy or disable the target upon impact.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "17"
+    },
+    {
+      "id": 18,
+      "name": "Control Fins",
+      "item_groupId": "1",
+      "description": "Aerodynamic surfaces that steer and stabilize the missile in flight.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "18"
+    },
+    {
+      "id": 19,
+      "name": "Propellant",
+      "item_groupId": "1",
+      "description": "Chemical substance that fuels the rocket motor for propulsion.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "19"
+    },
+    {
+      "id": 20,
+      "name": "Launch Tube",
+      "item_groupId": "1",
+      "description": "Encases the missile before launch and guides its initial trajectory.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "20",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 21,
+      "name": "Infrared Sensor",
+      "item_groupId": "1",
+      "description": "Utilizes infrared sensors to detect and analyze heat emissions from potential targets, allowing for precise target acquisition and continuous tracking throughout the missile's flight path. This system is capable of distinguishing between background thermal noise and actual targets, enhancing accuracy in complex environments.",
+      "image": "https://images.unsplash.com/photo-1505185166728-2c573eee20ad",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "21"
+    },
+    {
+      "id": 22,
+      "name": "Targeting Software",
+      "item_groupId": "1",
+      "description": "Receives and interprets real-time data from navigation, guidance, and target-tracking systems to compute optimal flight paths and engagement parameters. This processing ensures the missile dynamically adapts to changing conditions, threats, and target movements, maximizing mission success and minimizing collateral impact.",
+      "image": "https://images.unsplash.com/photo-1636939764072-9dd91590f4d3",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "22"
+    },
+    {
+      "id": 23,
+      "name": "Communication System",
+      "item_groupId": "1",
+      "description": "Facilitates secure and continuous communication between the missile and external command centers or launch platforms, enabling updates to mission parameters, in-flight course corrections, and telemetry feedback. This data link ensures real-time responsiveness and system-wide coordination during operations.",
+      "image": "https://images.unsplash.com/photo-1617619665381-88e2944bdb70",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "23"
+    },
+    {
+      "id": 24,
+      "name": "Missile Body Casing",
+      "item_groupId": "1",
+      "description": "Comprises a reinforced external casing engineered to shield sensitive internal subsystems from environmental hazards, thermal stress, and high-speed aerodynamic forces encountered during launch, flight, and impact. This structural enclosure also contributes to the missile's aerodynamic stability and overall integrity under extreme operational conditions.      ",
+      "image": "https://images.unsplash.com/photo-1511989130945-c2b632959395",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "24"
+    },
+    {
+      "id": 25,
+      "name": "GPS Receiver",
+      "item_groupId": "2",
+      "description": "Utilizes signals from multiple Global Positioning System (GPS) satellites to calculate the missile’s exact geographic coordinates in real-time. This high-precision positioning enables accurate navigation and target alignment, even over long distances or in complex terrains, significantly improving mission reliability.",
+      "image": "https://images.unsplash.com/photo-1610985725707-bb0766bf123b",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "25"
+    },
+    {
+      "id": 26,
+      "name": "Inertial Measurement Unit",
+      "item_groupId": "2",
+      "description": "Incorporates a suite of gyroscopes and accelerometers to continuously measure the missile’s angular position, acceleration, and velocity. This inertial data forms the backbone of the missile’s guidance system, ensuring stable flight control and precise maneuverability even in environments where external navigation signals may be lost or degraded.",
+      "image": "https://images.unsplash.com/photo-1580741569354-08feedd159f9",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "26"
+    },
+    {
+      "id": 27,
+      "name": "Control Guidance Electronics",
+      "item_groupId": "2",
+      "description": "Analyzes real-time input from GPS, inertial sensors, and other guidance sources to continuously compute and implement necessary course corrections. This dynamic adjustment capability allows the missile to maintain its intended trajectory, respond to unexpected obstacles, and accurately home in on its target despite environmental or operational changes.",
+      "image": "https://plus.unsplash.com/premium_photo-1661881524353-6388b1f5c4be",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "27"
+    },
+    {
+      "id": 28,
+      "name": "Tail Kit Assembly",
+      "item_groupId": "2",
+      "description": "Rear section that includes control surfaces for flight stabilization and guidance.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "28"
+    },
+    {
+      "id": 29,
+      "name": "Fuze System",
+      "item_groupId": "2",
+      "description": "Triggers the warhead detonation at a precise moment based on impact or proximity.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "29"
+    },
+    {
+      "id": 30,
+      "name": "Satellite Communication Module",
+      "item_groupId": "2",
+      "description": "Maintains long-range communication with command units via satellite links.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "30"
+    },
+    {
+      "id": 31,
+      "name": "Impact Sensor",
+      "item_groupId": "2",
+      "description": "Detects collision or sudden deceleration to trigger detonation.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "31"
+    },
+    {
+      "id": 32,
+      "name": "Smart Bomb Processor",
+      "item_groupId": "2",
+      "description": "Computes target trajectory and fusing logic in precision-guided munitions.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "32"
+    },
+    {
+      "id": 33,
+      "name": "Blast Fragmentation Warhead",
+      "item_groupId": "2",
+      "description": "Explodes into high-velocity fragments to maximize damage over an area.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "33"
+    },
+    {
+      "id": 34,
+      "name": "Navigation Antenna",
+      "item_groupId": "2",
+      "description": "Receives navigation signals such as GPS for precise guidance.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "34"
+    },
+    {
+      "id": 35,
+      "name": "Electronic Warfare Protection",
+      "item_groupId": "2",
+      "description": "Shields systems from jamming or interference during operation.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "35"
+    },
+    {
+      "id": 36,
+      "name": "Missile Frame",
+      "item_groupId": "2",
+      "description": "Structural framework that supports and integrates all missile components.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "36"
+    },
+    {
+      "id": 37,
+      "name": "Placeholder",
+      "item_groupId": "3",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "37"
+    },
+    {
+      "id": 38,
+      "name": "Placeholder",
+      "item_groupId": "4",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "38"
+    },
+    {
+      "id": 39,
+      "name": "Placeholder",
+      "item_groupId": "5",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "39"
+    },
+    {
+      "id": 40,
+      "name": "Placeholder",
+      "item_groupId": "6",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "40"
+    },
+    {
+      "id": 41,
+      "name": "Placeholder",
+      "item_groupId": "7",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "41"
+    },
+    {
+      "id": 42,
+      "name": "Placeholder",
+      "item_groupId": "8",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "42"
+    },
+    {
+      "id": 43,
+      "name": "Placeholder",
+      "item_groupId": "9",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "43"
+    },
+    {
+      "id": 44,
+      "name": "Placeholder",
+      "item_groupId": "10",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "44"
+    },
+    {
+      "id": 45,
+      "name": "Placeholder",
+      "item_groupId": "11",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "45"
+    },
+    {
+      "id": 46,
+      "name": "Placeholder",
+      "item_groupId": "12",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "46"
+    },
+    {
+      "id": 47,
+      "name": "Placeholder",
+      "item_groupId": "21",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "46",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 48,
+      "name": "Placeholder",
+      "item_groupId": "21",
+      "description": "Temporary entry used for testing or incomplete inventory data.",
+      "image": "",
+      "primary": false,
+      "used_in_countries": ["United States"],
+      "locationId": "46"
+    }
+  ],
+  "variations": [
+    {
+      "id": 1,
+      "item_groupId": "1",
+      "locationId": "1",
+      "names": [{ "name": "Hellfire Missile" }],
+      "prices": [
+        {
+          "price": "$2200.30",
+          "sources": ["https://google.com/price", "https://google.com/price2"]
+        }
+      ],
+      "usages": [
+        {
+          "usage": "Massacre in refugee camp on June 25 2023, killing of four doctors in a hospital in northern Gaza. Massacre in school in September 7, 2024.",
+          "sources": ["https://google.com/usage"]
+        }
+      ],
+      "companies": [
+        {
+          "name": "Lockheed Martin",
+          "country": {
+            "name": "United States",
+            "sources": ["https.google.com/contract-company/country"]
+          }
+        }
+      ],
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 2,
+      "item_groupId": "1",
+      "locationId": "47",
+      "names": [{ "name": "Hellfire Missile" }],
+      "prices": [
+        {
+          "price": null
+        }
+      ],
+      "usages": [],
+      "companies": [],
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 3,
+      "item_groupId": "21",
+      "locationId": "21",
+      "names": [{ "name": "Infrared Sensor" }],
+      "prices": [{ "price": "$175.00" }],
+      "usages": [
+        {
+          "usage": "The Infrared Sensor was deployed within missile guidance systems in Gaza to detect and lock onto the thermal emissions of a target, such as the heat signature from a vehicle exhaust."
+        }
+      ],
+      "companies": [
+        {
+          "name": "Lockheed Martin",
+          "sources": ["https.google.com/contract-company/company"],
+          "country": {
+            "name": "United States"
+          }
+        }
+      ],
+      "parentId": "1",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    },
+    {
+      "id": 4,
+      "item_groupId": "21",
+      "locationId": "48",
+      "names": [{ "name": "Infrared Sensor" }],
+      "prices": [
+        {
+          "price": null
+        }
+      ],
+      "usages": [{ "usage": null }],
+      "companies": [{ "name": null, "country": { "name": "United States" } }],
+      "parentId": "1",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper maximus convallis. Sed accumsan maximus lectus et tincidunt. Etiam venenatis dolor."
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Small Building",
+      "given_location": "Montville, NJ",
+      "address": "86 River Road, Montville, NJ 07045",
+      "lat": "40.8996986",
+      "lon": "-74.3755155",
+      "company": {
+        "name": "Lockheed Martin",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Manufacturing Facility",
+      "given_location": "Joplin, MO",
+      "address": "2400 W 20th St, Joplin, MO 64804",
+      "lat": "37.0722",
+      "lon": "-94.5281",
+      "company": {
+        "name": "EaglePicher LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Engineering Center",
+      "given_location": "Huntsville, AL",
+      "address": "102 Wynn Dr NW, Huntsville, AL 35805",
+      "lat": "34.7304",
+      "lon": "-86.5895",
+      "company": {
+        "name": "Aerobotix Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Corporate Headquarters",
+      "given_location": "Montville, NJ",
+      "address": "78 Boonton Avenue, Montville, NJ 07045",
+      "lat": "40.9125",
+      "lon": "-74.3601",
+      "company": {
+        "name": "Marotta Controls Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Research Facility",
+      "given_location": "San Jose, CA",
+      "address": "7001 Oakport St, Oakland, CA 94621",
+      "lat": "37.7409",
+      "lon": "-122.1986",
+      "company": {
+        "name": "Viavi Solutions Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Precision Manufacturing Plant",
+      "given_location": "Eastlake, OH",
+      "address": "1234 Precision Dr, Eastlake, OH 44095",
+      "lat": "41.6534",
+      "lon": "-81.4500",
+      "company": {
+        "name": "Midwest Precision LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Aerospace Division",
+      "given_location": "Corona, CA",
+      "address": "2301 Wardlow Circle, Corona, CA 92880",
+      "lat": "33.8753",
+      "lon": "-117.5637",
+      "company": {
+        "name": "CIRCOR Aerospace Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Casting Facility",
+      "given_location": "Londonderry, NH",
+      "address": "12 Industrial Dr, Londonderry, NH 03053",
+      "lat": "42.8651",
+      "lon": "-71.3736",
+      "company": {
+        "name": "Uni-Cast LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Corporate Office",
+      "given_location": "Cincinnati, OH",
+      "address": "4567 Innovation Way, Cincinnati, OH 45242",
+      "lat": "39.2675",
+      "lon": "-84.3758",
+      "company": {
+        "name": "Chmiede Corporation",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Engineering Center",
+      "given_location": "East Aurora, NY",
+      "address": "400 Jamison Rd, East Aurora, NY 14052",
+      "lat": "42.7670",
+      "lon": "-78.6137",
+      "company": {
+        "name": "Moog Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Innovation Lab",
+      "given_location": "Dallas, TX",
+      "address": "789 Innovation Dr, Dallas, TX 75201",
+      "lat": "32.7767",
+      "lon": "-96.7970",
+      "company": {
+        "name": "Lockheed Martin",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Testing Facility",
+      "given_location": "Phoenix, AZ",
+      "address": "321 Test Ave, Phoenix, AZ 85004",
+      "lat": "33.4484",
+      "lon": "-112.0740",
+      "company": {
+        "name": "EaglePicher LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Assembly Plant",
+      "given_location": "Huntsville, AL",
+      "address": "654 Assembly Ln, Huntsville, AL 35801",
+      "lat": "34.7304",
+      "lon": "-86.5861",
+      "company": {
+        "name": "Aerobotix Inc.",
+        "country": null
+      }
+    },
+    {
+      "id": 14,
+      "name": "Design Center",
+      "given_location": "Montville, NJ",
+      "address": null,
+      "lat": "40.9120",
+      "lon": "-74.3610",
+      "company": {
+        "name": "Marotta Controls Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Tech Hub",
+      "given_location": "Santa Clara, CA",
+      "address": "333 Tech Rd, Santa Clara, CA 95054",
+      "lat": "37.3541",
+      "lon": "-121.9552",
+      "company": {
+        "name": "Viavi Solutions Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "Tooling Division",
+      "given_location": "Cleveland, OH",
+      "address": "5120 Tooling Pkwy, Cleveland, OH 44125",
+      "lat": null,
+      "lon": null,
+      "company": {
+        "name": "Midwest Precision LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "Component Assembly",
+      "given_location": "Corona, CA",
+      "address": "455 Aerospace Ave, Corona, CA 92880",
+      "lat": "33.8805",
+      "lon": "-117.5641",
+      "company": {
+        "name": "CIRCOR Aerospace Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Casting Plant",
+      "given_location": "Londonderry, NH",
+      "address": "221 Foundry Rd, Londonderry, NH 03053",
+      "lat": "42.8660",
+      "lon": "-71.3742",
+      "company": {
+        "name": "Uni-Cast LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "Machining Center",
+      "given_location": null,
+      "address": "980 Machining Ln, Cincinnati, OH 45242",
+      "lat": "39.2660",
+      "lon": "-84.3762",
+      "company": {
+        "name": "Chmiede Corporation",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "Fluid Controls Facility",
+      "given_location": "East Aurora, NY",
+      "address": "600 Control Dr, East Aurora, NY 14052",
+      "lat": "42.7680",
+      "lon": "-78.6125",
+      "company": {
+        "name": "Moog Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name": "Advanced Systems Site",
+      "given_location": "Bethesda, MD",
+      "address": "700 Innovation Park, Bethesda, MD 20814",
+      "lat": "38.9847",
+      "lon": "-77.0947",
+      "company": {
+        "name": "Lockheed Martin",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "Energy Storage Plant",
+      "given_location": "Seneca, MO",
+      "address": null,
+      "lat": "36.8409",
+      "lon": "-94.6102",
+      "company": {
+        "name": "EaglePicher LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "Robotics Assembly",
+      "given_location": "Madison, AL",
+      "address": "1020 Automation Blvd, Madison, AL 35758",
+      "lat": "34.6993",
+      "lon": "-86.7483",
+      "company": {
+        "name": "Aerobotix Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "name": "Valve Systems Lab",
+      "given_location": "Montville, NJ",
+      "address": "60 Industrial Pkwy, Montville, NJ 07045",
+      "lat": "40.9118",
+      "lon": "-74.3599",
+      "company": {
+        "name": "Marotta Controls Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name": "Fiber Optics Facility",
+      "given_location": "Tempe, AZ",
+      "address": "1600 CommNet Rd, Tempe, AZ 85281",
+      "lat": "33.4255",
+      "lon": "-111.9400",
+      "company": {
+        "name": "Viavi Solutions Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name": "Machining & Grinding",
+      "given_location": "Mentor, OH",
+      "address": "111 Machine Way, Mentor, OH 44060",
+      "lat": "41.6662",
+      "lon": "-81.3396",
+      "company": {
+        "name": "Midwest Precision LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "name": "Fuel Valve Testing",
+      "given_location": "Corona, CA",
+      "address": "998 Aero Cir, Corona, CA 92880",
+      "lat": "33.8777",
+      "lon": "-117.5633",
+      "company": {
+        "name": null,
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name": "Metal Foundry",
+      "given_location": "Londonderry, NH",
+      "address": "500 Forge Ln, Londonderry, NH 03053",
+      "lat": "42.8653",
+      "lon": "-71.3725",
+      "company": {
+        "name": "Uni-Cast LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "name": "Toolroom Building",
+      "given_location": "Cincinnati, OH",
+      "address": "1530 Tool Ave, Cincinnati, OH 45241",
+      "lat": "39.2654",
+      "lon": "-84.3741",
+      "company": {
+        "name": "Chmiede Corporation",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "name": "Systems Integration Lab",
+      "given_location": "East Aurora, NY",
+      "address": "845 Systems Way, East Aurora, NY 14052",
+      "lat": "42.7663",
+      "lon": "-78.6128",
+      "company": {
+        "name": "Moog Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "name": "Missile Lab",
+      "given_location": "Grand Prairie, TX",
+      "address": "100 Missile Park, Grand Prairie, TX 75051",
+      "lat": "32.7459",
+      "lon": "-97.0074",
+      "company": {
+        "name": "Lockheed Martin",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "name": "Battery Systems Building",
+      "given_location": "Seneca, MO",
+      "address": "210 Power Ln, Seneca, MO 64865",
+      "lat": "36.8422",
+      "lon": "-94.6091",
+      "company": {
+        "name": "EaglePicher LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name": "Robotics Calibration Lab",
+      "given_location": "Madison, AL",
+      "address": "55 Automation Dr, Madison, AL 35758",
+      "lat": "34.6997",
+      "lon": "-86.7495",
+      "company": {
+        "name": "Aerobotix Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "name": "Control Lab",
+      "given_location": "Montville, NJ",
+      "address": "432 Control Blvd, Montville, NJ 07045",
+      "lat": "40.9133",
+      "lon": "-74.3620",
+      "company": {
+        "name": "Marotta Controls Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name": "Fiber Test Facility",
+      "given_location": "San Jose, CA",
+      "address": "77 Fiber Tech St, San Jose, CA 95134",
+      "lat": "37.4119",
+      "lon": "-121.9450",
+      "company": {
+        "name": "Viavi Solutions Inc.",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "name": "Precision Assembly",
+      "given_location": "Cleveland, OH",
+      "address": "202 Assembly Rd, Cleveland, OH 44125",
+      "lat": "41.4179",
+      "lon": "-81.6267",
+      "company": {
+        "name": "Midwest Precision LLC",
+        "country": {
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "name": "Placeholder",
+      "given_location": "Placeholder",
+      "address": "Placeholder",
+      "lat": "00.0000",
+      "lon": "00.0000",
+      "company": {
+        "name": "Plaeceholder",
+        "country": {
+          "name": "Placeholder"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "name": "Small Building",
+      "given_location": null,
+      "address": null,
+      "lat": null,
+      "lon": null,
+      "company": {
+        "name": null,
+        "country": null
+      }
+    },
+    {
+      "id": 48,
+      "name": "Small Building",
+      "given_location": null,
+      "address": null,
+      "lat": null,
+      "lon": null,
+      "company": {
+        "name": null,
+        "country": {
+          "name": "United States"
+        }
+      }
+    }
+  ]
+}
